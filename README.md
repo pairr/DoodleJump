@@ -86,7 +86,7 @@ Welcome to the Doodle Jump Clone! This game is inspired by the classic Doodle Ju
 *Doodle collecting an easter egg.*
 
 ### High Score
-![High Score](screenshots/high-score.png)
+![High Score](screenshots/high-score.gif)
 *Top left corner with the current score.*
 
 ### Skin Transformation
