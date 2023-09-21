@@ -5,7 +5,7 @@
 - [Features](#features)
 - [Controls](#controls)
 - [Gameplay](#gameplay)
-- [Screenshots and Gameplay Demos](#screenshots)
+- [Screenshots and Gameplay Demos](#screenshots and gameplay demos)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
